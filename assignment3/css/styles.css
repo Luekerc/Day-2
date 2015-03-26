@@ -1,0 +1,205 @@
+/* Default CSS: CSS for small devices <768px */
+body {
+	font-size: 18px;
+	line-height: 1.5;
+	font-family: sans-serif;
+}
+.header {
+
+	text-decoration: none;
+	width: 100%;
+}
+.your-logo {
+	height: 67px;
+	width: 360px;
+	padding: 5px 20px 5px 20px;
+	text-decoration: none;
+	color: rgb(86,93,100);
+}
+.nav:hover{
+	background:rgb(236,236,236);
+}
+.nav{
+	text-decoration: none;
+	color: rgb(86,93,100);
+	padding: 5px 10px 5px 10px;
+	width: 100%;
+}
+.banner {
+	height: 140px;
+	width: 100%;
+	padding-top: 60px;
+	margin: 0 auto;
+	font-size: 30px;
+	color: white;
+	font-weight: 500;
+	text-shadow: black 0 1px 1px;
+	text-align: center;
+	background: url('http://24.media.tumblr.com/ccb268832580ac12951828a1c179de69/tumblr_mo2xbk8JUK1st5lhmo1_1280.jpg') 0 0 fixed no-repeat;
+  	background-size: cover;
+}
+.container{
+	text-align: center;
+	width: 382px;
+}
+#green-container {
+	text-align: center;
+	width: 382px;
+	margin-left: 10px;
+	margin-top: 50px;
+}
+.green-box{
+	color: white;
+	background-color: rgb(81,146,81);
+	width: 382px;
+	height: 181px;
+	padding-top: 20px;
+	vertical-align: top;
+	display: block;
+}
+.pers {
+	font-size: 1em;
+	margin: 0em;
+}
+.dollar{
+	margin-top: -30px;
+	margin-bottom: -50px;
+	padding: 0;
+	font-size: 5.5em;
+	font-weight: 100;
+	vertical-align: baseline;
+	color: #fff;
+}
+.month{
+	font-weight: 400;
+	color: rgba(255, 255, 255, 0.5);
+}
+#unordered-list{
+border: solid 1px #e7e7e7;
+}
+#unordered-list li{
+	color: #526066;
+	background: #f7f7f7;
+	border-bottom: solid 1px #e7e7e7;
+	width: 380px;
+	line-height: 2.25em;
+}
+#choose{
+	border: 1px solid #ccc;
+	background: #fff;
+	border-radius: 2em;
+	font-weight: bold;
+ 	position: relative;
+ 	bottom: -1.5em;
+  	font-family: inherit;
+  	font-size: 100%;
+  	padding: 8px 16px;
+  	display: inline-block;
+ 	zoom: 1;
+  	line-height: normal;
+  	white-space: nowrap;
+  	vertical-align: middle;
+  	text-align: center;
+  	cursor: pointer;
+	outline: none;
+	overflow: visible;
+}
+.btn{
+	height: 80px;
+	border-bottom: solid 1px #e7e7e7;
+	border-right: solid 1px #e7e7e7;
+	border-left: solid 1px #e7e7e7;
+}
+#choose:hover{
+	background-color: rgb(242,242,242);
+}
+#blue-container {
+	text-align: center;
+	width: 382px;
+	margin-left: 10px;
+	margin-top: 50px;
+}
+.blue-box{
+	color: white;
+	background-color: rgb(44,73,133);
+	width: 382px;
+	height: 181px;
+	padding-top: 20px;
+	vertical-align: top;
+	display: block;
+}
+#black-container {
+	text-align: center;
+	width: 382px;
+	margin-left: 10px;
+	margin-top: 50px;
+}
+.black-box{
+	color: white;
+	background-color: rgb(17,17,17);
+	width: 382px;
+	height: 181px;
+	padding-top: 20px;
+	vertical-align: top;
+	display: block;
+}
+#paragraphs-top{
+	width: 360px;
+	margin-left: 10px;
+}
+#paragraphs-bottom{
+	width: 360px;
+	margin-left: 10px;
+}
+.titles{
+	font-size: 1.17em;
+	margin-top: 6em;
+	font-weight: 500;
+	letter-spacing: 0.25em;
+}
+.titles-b{
+	margin-top: 3em;
+	font-weight: 500;
+	letter-spacing: 0.25em;
+}
+.lorem{
+	font-size: 0.95em;
+	color: #526066;
+	margin-top: 0.6em;
+	line-height: 1.5em;
+	zoom: 1;
+	letter-spacing: normal;
+  	word-spacing: normal;
+}
+.footer{
+	background-color: black;
+	padding-top: 1em;
+	padding-bottom: 1.25em;
+	color: #888;
+	font-size: 1em;
+    text-align: center;
+    margin: 16px 0;
+	line-height: 1.6em;
+}
+a{
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+/* CSS for medium devices ≥768px */
+@media (min-width: 768px) {
+
+
+}
+
+/* CSS for large devices ≥992px */
+@media (min-width: 992px) {
+	
+}
